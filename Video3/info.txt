@@ -1,0 +1,2 @@
+** When I change the css file, at times we need to reload
+**  if you are using html file and maiking  changes you don't need to reload the changes of HTML file
