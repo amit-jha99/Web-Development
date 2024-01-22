@@ -1,0 +1,16 @@
+1 Client: mai , tum 
+2 Server :youtube.com, google.com
+3 Browser: chrome
+
+****Backend:The backend is the server side of the website.
+it stores and arraanges data, and also makes sure everything on the client side works fine.
+It is part of the website that you cannot see and in.
+Backend can be ruby on rails, flask , Dajango, nodejs ,php etc.
+
+browser parses the html and html is  a skeleton
+
+javascript helps us to make page dynamic: bina page ko load kiye content ko change karna
+
+Html is car skeleton 
+css is car painted
+javascript is car engine and internal logic
