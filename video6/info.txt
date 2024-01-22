@@ -1,0 +1,24 @@
+**SEO stands for search Engine optimization
+** google consider core web vitals to rank 2 pages
+
+**so in core web vitals first comes your cls(cummulative layout shift) how much is page shifting while the page is loading
+
+** second thing is LCP (largest contentful paint) :how much time will The bigger element  take to load
+**According to web.dev and google, a good LCP score should be 2.5 seconds. That is, the biggest element of the page should be loaded in 2.5 seconds.
+
+** the third metrics is FID(first input delay) : it means that if any user cliks on any input element like a button or any type of input on a page So how long does that input process
+According to google and web.dev , your input should start processing in less  than 100 milliseconds
+
+
+** now we'll see what is lighthouse report and why it is generated and how to get the values of these 3 core web vitals 
+** lighthouse basically generates a report and give it to you and tells you what can be improved in your html page
+** if you incorporate these suggestions then your website will be loaded very well and will give a good experience to user
+
+**Now you can see here that image elements do not have explicit widht and height.
+**So you should give width and height, the width and height attribute of the image that we read in the last video should be used so that your browser has space
+** When we set width and height in HTML , then space is reserved in the browser otherwise, if we do not set heigth and width then what will happen is that the browser will not know how much space to reserve and  and as long as the CSS will load the whole page will shift from the bottom so we don't want our page shift in the loading time, if our page starts shifting then if we are going to clik here then by mistake it may be possible that we click somewhere elements
+**this is called cumulative layout shift google doest not prfer it at all and it should be minimum  so that our user can get a  very good experience
+
+
+****
+if your title is reflecting the content of your page, then it is good SEO pratice.
