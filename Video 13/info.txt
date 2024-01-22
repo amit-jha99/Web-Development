@@ -1,0 +1,5 @@
+HTMl entites are a crucial part of HTML markup language .They enable you to display characters that are reserved in HTML or that aren't really available on the keyboard.
+
+
+**What are obsolete Tags
+->Obsolete Tags are HTML elements that are no longer recommended for use. They may lack support in modern browswers and are likely to be phased out entirely in future versions of HTML.
