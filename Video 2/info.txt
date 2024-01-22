@@ -1,0 +1,10 @@
+view word wrap karne se horizontal scrolling hat jaati hai
+vs code icons 
+github theme
+jelly fish theme
+material Theme
+
+script ko body se just phele include karte hai
+
+freelance :api ko integrate karke :fiverr mai buyer request option,upwork
+instagram can be used
