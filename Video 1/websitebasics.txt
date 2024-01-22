@@ -3,9 +3,9 @@
 3 Browser: chrome
 
 ****Backend:The backend is the server side of the website.
-it stores and arraanges data, and also makes sure everything on the client side works fine.
+it stores and arranges data, and also makes sure everything on the client side works fine.
 It is part of the website that you cannot see and in.
-Backend can be ruby on rails, flask , Dajango, nodejs ,php etc.
+Backend can be ruby on rails, flask , Django, nodejs ,php etc.
 
 browser parses the html and html is  a skeleton
 
